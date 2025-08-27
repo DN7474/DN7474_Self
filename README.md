@@ -2,7 +2,8 @@
 # Hi there 👋, I'm Dipankar Nag  
 Welcome to my corner of GitHub 🚀  
 
-🌟 I’m currently a **Data Analyst Intern @ FutureIntern**.  
+🌟 I’m currently a **Data Analyst Intern @ FutureIntern passionate about transforming raw data into meaningful insights. **data visualization & machine learning basics** to grow as a data professional.  
+**.  
 I’m passionate about learning new tech skills, solving data problems, and building dashboards that turn numbers into stories.  
 
 Here you’ll find:  
