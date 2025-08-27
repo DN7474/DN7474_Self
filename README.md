@@ -5,6 +5,13 @@ Welcome to my corner of GitHub 🚀
 🌟 I’m currently a **Data Analyst Intern @ FutureIntern**.  
 I’m passionate about learning new tech skills, solving data problems, and building dashboards that turn numbers into stories.  
 
+Here you’ll find:  
+- 📊 **Projects** I’m building or contributing to  
+- 🛠️ **Things I’m learning** while exploring SQL, Python, and BI tools  
+- 💡 **Insights & experiments** as I grow in my data career  
+
+Let’s connect, learn, and grow together — one repo at a time!  
+
 💡 I’m a **Data Analyst Intern @ FutureIntern** passionate about transforming raw data into meaningful insights.  
 📊 Skilled in **SQL, Python, Excel, Tableau, and Power BI** with hands-on experience in dashboards & data analysis.  
 🚀 Currently exploring **data visualization & machine learning basics** to grow as a data professional.  
