@@ -12,9 +12,11 @@ Here you’ll find:
 
 Let’s connect, learn, and grow together — one repo at a time!  
 
-💡 I’m a **Data Analyst Intern @ FutureIntern** passionate about transforming raw data into meaningful insights.  
-📊 Skilled in **SQL, Python, Excel, Tableau, and Power BI** with hands-on experience in dashboards & data analysis.  
-🚀 Currently exploring **data visualization & machine learning basics** to grow as a data professional.  
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/dipankarnag2001/)  
+- 📧 Email: *dipankarnag7474@outlook.com*  
 
 ---
 
@@ -40,6 +42,3 @@ Let’s connect, learn, and grow together — one repo at a time!
 
 ---
 
-## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/dipankarnag2001/)  
-- 📧 Email: *dipankarnag7474@outlook.com*  
