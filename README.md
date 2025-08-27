@@ -22,8 +22,7 @@ Let’s connect, learn, and grow together — one repo at a time!
 
 ## 🚀 Projects
 - **[Project 1 Name](#)** – Short description of what you built.  
-- **[Project 2 Name](#)** – Short description of what you built.  
-- **[Project 3 Name](#)** – Short description of what you built.  
+
 
 ---
 
