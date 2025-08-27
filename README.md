@@ -31,4 +31,4 @@
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/dipankarnag2001/)  
-- 📧 Email: *your email here*  
+- 📧 Email: *dipankarnag7474@outlook.com*  
