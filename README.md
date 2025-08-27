@@ -30,5 +30,5 @@
 ---
 
 ## 📫 Connect with Me
-- [LinkedIn](https://www.linkedin.com/in/dipankarnag)  
+- [LinkedIn]((https://www.linkedin.com/in/dipankarnag2001/))  
 - 📧 Email: *your email here*  
