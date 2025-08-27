@@ -14,24 +14,9 @@ Let’s connect, learn, and grow together — one repo at a time!
 
 ---
 
-## 📫 Connect with Me
+## 🌐 Socials
 - [LinkedIn](https://www.linkedin.com/in/dipankarnag2001/)  
 - 📧 Email: *dipankarnag7474@outlook.com*  
-
----
-
-## 🛠️ Skills & Tools
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
-
----
-
-## 📊 GitHub Stats
-![Dipankar's GitHub stats](https://github-readme-stats.vercel.app/api?username=dipankarnag&show_icons=true&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=dipankarnag&theme=radical)
 
 ---
 
@@ -41,4 +26,11 @@ Let’s connect, learn, and grow together — one repo at a time!
 - **[Project 3 Name](#)** – Short description of what you built.  
 
 ---
+
+## 🛠️ Skills & Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black)
 
